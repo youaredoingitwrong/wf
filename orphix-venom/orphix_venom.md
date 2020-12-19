@@ -16,6 +16,10 @@ reduces sentient control and finishing off the Orphix reduces it back to 0% (unl
 5. Kill Orphix
 6. Repeat until you killed 36 (you could extract after killing 3)
 
+Expected duration for a full run (36 destroyed) is **~55 minutes**. And **19k-22k** points.
+
+The amount of Phasic Cells (the currency used to buy rewards at father) received is the amount of points divided by 10 (rounded down).
+
 # Rotations
 The operation follows the common AABC loot rotation. Every 3 destroyed Orphix give you a reward.
 This means 12, 24 and 36 destroyed Orphix reward the C rotation. You will see many pub runs want to extract at round 12.
