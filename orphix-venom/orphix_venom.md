@@ -25,8 +25,9 @@ This means 12, 24 and 36 destroyed Orphix reward the C rotation. You will see ma
 Protea with duration and power strength to put down dispensary for mech energy.
 
 ## Necramech
-- Voidrig with [Necramech Rage] and [Necramech Repair]
+- Voidrig with [Necramech Rage] and [Necramech Repair] (those two combine well with Storm Shroud to keep health+energy topped up)
 - Arquebex modded for corrosive
+- Bonewidow does nothing for this operation
 
 ## Archgun
 Fluctus with raw damage (stolen from --RV--Faras)
@@ -61,10 +62,12 @@ There are two sources of points: Passive (while no Orphix is present) and by kil
 The main source of your total score will be from Orphix kills and passive points.
 Killing other sentients that spawn gives only 2 per kill, so it is not worth to focus on that.
 
+The amount of points received for each Orphix kill increased the further the mission progresses, making a max run the best option.
+
 To maximize your points, You should focus on killing the Orphix as quickly as possible.
 
 ## Positioning
-Learn the spawn rotations and remember the where the 1/2/3 rooms are. Keeping the HUD map open helps with this.
+Learn the spawn rotations and remember where the 1/2/3 rooms are. Keeping the HUD map open helps with this.
 Positioning is important to quickly get started with killing the Orphix as soon as it spawns.
 
 ## Destroying Orphix Resonators
@@ -83,4 +86,4 @@ Being in operator and dashing around, also protects your teammates with Void Sha
 
 ## Other
 - Make sure to cast dispensary for the mechs to regen energy before the next Orphix spawns
-- 
+- [Necramech Rage], [Necramech Repair] and your Storm Shroud ability can be used to stay alive, regen energy and heal yourself
