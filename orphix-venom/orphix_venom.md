@@ -89,5 +89,6 @@ Getting around with the operator is way easier than in the mech, especially if y
 Being in operator and dashing around, also protects your teammates with Void Shadow and Void Chrysalis.
 
 ## Other
-- Make sure to cast dispensary for the mechs to regen energy before the next Orphix spawns
-- [Necramech Rage], [Necramech Repair] and your Storm Shroud ability can be used to stay alive, regen energy and heal yourself
+- Make sure to cast dispensary for the mechs to regen energy before the next Orphix spawns.
+- [Necramech Rage], [Necramech Repair] and your Storm Shroud ability can be used to stay alive, regen energy and heal yourself.
+- Be careful not to switch into one of the rent-a-mechs. This can cost a lot of time.
